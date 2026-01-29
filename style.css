@@ -1,0 +1,46 @@
+body {
+    font-family: monospace;
+    background-color: #5e2727d4;
+}
+
+.container { 
+    width: 300px;
+    margin: 100px auto;
+    background: rgb(225, 175, 175);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+#btn{
+    font-family: monospace; 
+    border-radius: 10px;
+    background-color:rgb(145, 145, 225);
+    
+}
+
+
+#taskInput{
+    background-color: #da7c7cd4;
+    font-family: monospace;
+    
+}
+
+::placeholder {
+    color: pink;
+    font-family: monospace;
+}
+
+input {
+    width: 70%;
+    padding: 5px;
+}
+
+button {
+    padding: 6px 10px;
+    cursor:pointer;
+}
+
+li {
+    margin-top: 10px;
+}
